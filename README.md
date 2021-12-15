@@ -1,0 +1,1 @@
+# delete_ns_terminating
