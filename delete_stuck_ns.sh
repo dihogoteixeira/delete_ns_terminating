@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-# chmod +x delete_stuck_ns.sh
 
 function delete_namespace () {
     echo "Deleting namespace $1"
